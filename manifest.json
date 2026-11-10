@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Ahmad pos",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "pos ahmad",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
